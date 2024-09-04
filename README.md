@@ -2,8 +2,8 @@
 ![Picture1](https://github.com/user-attachments/assets/2ebfd950-7e0d-45d8-929b-63e4a2389cb8)
 
 This repository is focused on Computer Software Engineering. Codes will be produced that can help in software creation and development. Soft wares will be produced that can help solve problems and create opportunities in life. 
-applications.
 
+The following codes have been produced to help provide solutions to some of lifes challenges. 
 ![image](https://github.com/user-attachments/assets/8e6bf241-eadc-496a-a531-c80a3c0213d7)
 
 
